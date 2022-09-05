@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://canada.haychamba.net/haychamba.net/markdown/2020/01/14/test-markdown-post.html</loc>
+<loc>https://canada.haychamba.net/haychamba/markdown/2020/01/14/test-markdown-post.html</loc>
 <lastmod>2020-01-14T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://canada.haychamba.net/haychamba.net/about/</loc>
+<loc>https://canada.haychamba.net/haychamba/jupyter/2020/02/20/test.html</loc>
+<lastmod>2020-02-20T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://canada.haychamba.net/haychamba.net/</loc>
+<loc>https://canada.haychamba.net/haychamba/about/</loc>
 </url>
 <url>
-<loc>https://canada.haychamba.net/haychamba.net/search/</loc>
+<loc>https://canada.haychamba.net/haychamba/</loc>
 </url>
 <url>
-<loc>https://canada.haychamba.net/haychamba.net/categories/</loc>
+<loc>https://canada.haychamba.net/haychamba/search/</loc>
+</url>
+<url>
+<loc>https://canada.haychamba.net/haychamba/categories/</loc>
 </url>
 </urlset>
